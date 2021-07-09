@@ -1,0 +1,124 @@
+body {
+    text-align: center;
+    background: linear-gradient(#004ad4 0%, #f70a3d 100%);
+    font-family: sans-sherrif;
+    z-index: 9
+}
+
+#CodingPic {
+
+    height: 30%;
+    width: 30%;
+    border-radius: 50%;
+    margin-right: 50px;
+    margin-top:20px;
+
+}
+
+
+#Hone {
+
+    font-size: 22px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+
+#p {
+
+    font-size: 28px;
+
+
+}
+
+
+
+#orange {
+    width:100%;
+        margin-top:0px;
+    top:0px;
+    position:fixed;
+
+}
+
+.apple {
+    
+display:inline;
+    padding-right:33px;
+    padding-left:25px;
+list-style: none;
+    font-size:22px;
+    font-family:sans-serif;
+  color:white;
+    text-decoration: underline
+
+}
+
+.apple:hover {
+    background-color:dodgerblue;
+}
+
+
+.line {
+
+    width: 70px;
+    height: 6px;
+    background-color: black;
+    margin: 4px auto;
+
+}
+
+
+#CodingH {
+
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+
+section {
+    font-size: 20px;
+    font-family: cursive;
+
+}
+
+#LarryPagePic {
+    height: 55%;
+    width: auto;
+    margin-right: 12px;
+ border-style: dotted;
+    border-width: thick;
+    border-color:black;
+}
+
+#SteveJobsPic {
+    height: 55%;
+    width: auto;
+    margin-left: 20px;
+     border-style: dotted;
+    border-width: thick;
+     border-color:black;
+}
+
+#Contacts iframe {
+
+  width:100%;
+
+}
+
+.Contacty .a {
+    text-shadow:none;
+     color:white;
+}
+
+
+.Contacty h3 {
+    
+    display:inline;
+}
+
